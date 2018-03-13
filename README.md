@@ -1,0 +1,2 @@
+# Synergy-install
+Synergy install
